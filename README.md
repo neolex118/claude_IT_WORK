@@ -18,4 +18,4 @@
 
 ## Текущий статус
 
-Этап 1, неделя 3: тема nginx. Подробности — в [PROGRESS.md](PROGRESS.md).
+Этап 1, неделя 4: SSH-ключи, ufw. Подробности — в [PROGRESS.md](PROGRESS.md).
